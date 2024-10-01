@@ -3,6 +3,19 @@ For the past 1-2 months I've been more seriously studying computer programming. 
 
 This file has random assorted snippets of things i'm thinking. train of consciousness and not likely to include capitalization at times. hopefully not too unhinged. I think this will end up reverse-chronological.
 
+### 10/1/24
+Time to lock back in. Some circumstances have changed where I should be able to pursue these hobbies more frequently. It is currently Tuesday, October 1st at 5:37 AM. I have about 1h20m to code until I probably should go work out.
+
+Good morning.
+
+First up: piglatinfy function, see [https://github.com/mud2monarch/rustbook/tree/main/piglatinfy](https://github.com/mud2monarch/rustbook/tree/main/piglatinfy).
+
+Reading about `&str` vs `str` vs `String` vs `[u8]`.... Rust = WOKE????? Fk this UTF-8 support!
+
+alright, 7:09 AM. What a great session! I implemented pig_latinfy() with an `Option<char>` return type and got through some of its usage in `fn main()`. Ran overtime LMEOW, guess I'll run (blurgh). I'll go for a run then I need to go to a 9 am breakfast in fidi unfortunately.
+
+Thinking so much about agentic AI, see twitter.com/repligate... I think I'll write something about this phenomenon later.
+
 ### 9/29/24
 gm.
 
